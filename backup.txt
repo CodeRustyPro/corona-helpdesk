@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Helpdesk</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css"> 
+    <link rel="shortcut icon" href="abcad.ico">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+</head>
+<body>
+    <header class="background">
+        <script>
+            var beep5 = new Audio()
+            beep5.src = 'beep5.mp3';
+        </script>
+        <h1 class ="continuous" data-text="We are all Together"> |   We are all United   <br> |    Toll Free:1075 </h1>
+        <div class="main">
+            <!-- <div class="logo">
+                <img src="good.png">
+            </div> -->
+            <nav>
+            <ul>
+                
+                <li><div class="logo"><img src="index.jpeg" alt="logo"></div></li>
+                <li><a href="#">Home</a></li> 
+                <li><a href="https://www.mohfw.gov.in" target="_blank" onmousedown="beep5.play();">Latest</a></li>
+                <li><a href="#" onmousedown="beep5.play();">About</a></li>
+                <li><a href="#" onmousedown="beep5.play();">Helpline</a></li>
+                <li><a href="#" onmousedown="beep5.play();">FAQ's</a></li>
+                <br>
+                <br>
+                <hr class="hr">
+            </ul>      
+            </nav>  
+        </div>
+        <div class="title">
+            <h1>Aarogya Setu</h1>
+        </div>
+        <div class="button">
+            <a href="#" class="btn">Toll Free</a>
+            <a href="#" class="btn">Information</a>
+        </div>
+            
+    </header>
+
+    
+</body>
+</html>
