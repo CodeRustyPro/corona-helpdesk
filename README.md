@@ -9,4 +9,4 @@ One can get manuals and helpdesk information which can help one avail the smooth
 
 >#STAYSAFE
 
-<img alt="Python" width="100px" src="https://forthebadge.com/images/badges/validated-html5.svg"/>
+<img alt="Python" width="300px" src="https://forthebadge.com/images/badges/validated-html5.svg"/>
