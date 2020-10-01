@@ -1,4 +1,4 @@
-# Corona-Helpdesk made by [Dev Shah](https://coderustypro.github.io)
+# [Corona-Helpdesk](https://coderustypro.github.io/corona-helpdesk/) made by [Dev Shah](https://coderustypro.github.io)
 
 Indian Corona Helpdesk for helping people in India to get access to resources in this pandemic situation.
 
